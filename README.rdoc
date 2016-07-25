@@ -1,4 +1,9 @@
+
+*** This is a forked repository from neall/ruby_koans ****
+
+
 = EdgeCase Ruby Koans
+
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby. 
 The goal is to learn the Ruby language, syntax, structure, and some common 
